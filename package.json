@@ -1,0 +1,27 @@
+{
+  "name": "pokedexmvc1",
+  "version": "1.0.0",
+  "description": "Projeto pokedex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazaroopaiva/PokedexMvc1.git"
+  },
+  "author": "LAzaro Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazaroopaiva/PokedexMvc1/issues"
+  },
+  "homepage": "https://github.com/lazaroopaiva/PokedexMvc1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
