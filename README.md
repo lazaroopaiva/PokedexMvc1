@@ -6,8 +6,8 @@
 + JAVASCRIPT
 + EXPRESS
 
-#### Deploy: https://projeto-pokedex-blueedtech.herokuapp.com/
-
+#### Deploy: https://pokedexmvc10.herokuapp.com/
+ 
 ## Orientações:
 
 + Instalação do Node.(https://nodejs.org/en/download/)
